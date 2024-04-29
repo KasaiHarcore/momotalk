@@ -1,11 +1,8 @@
 <h1 align="center">Momotalk Editor</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/github/last-commit/u1805/momotalk/main">
-    <img src="https://img.shields.io/github/languages/top/U1805/momotalk" >
-    <a href="https://star-history.com/#U1805/momotalk"> 
-      <img src="https://img.shields.io/github/stars/U1805/momotalk" alt="stars"> 
-    </a>
+    <img src="https://img.shields.io/github/last-commit/KasaiHarcore/momotalk/main">
+    <img src="https://img.shields.io/github/languages/top/KasaiHarcore/momotalk" >
 </div>
 
 <div align="center">
@@ -13,10 +10,10 @@
   <sub>Set your Creative Idea free!</sub>
 </div>
 
-[English](./README.md) | [简体中文](./docs/README-zh_cn.md) | [繁體中文](./docs/README-zh_tw.md) | [日本語](./docs/README-ja.md)
+[English](./README.md) | [Vietnamese](./docs/README-vn.md) 
 
 
-## Feature
+## Original Version Feature
 
 - **Searchable**: search students by names, romajis, and even nicknames. 🔍️
 - **Custom role**: chat as Students, Sensei, and Custom roles. 🎅
@@ -27,7 +24,8 @@
 - **Multiple Languages**: support Chinese(Simplified & Traditional), Japanese, Korean, and English. 🌐
 - **Momotalk Player**: you can also use it to read Momotalk stories from game. ▶️
 
-[Try it!](https://u1805.github.io/momotalk)
+[Try the original version!](https://u1805.github.io/momotalk)
+[My version will update shortly]
 
 ## Experimental Feature
 
@@ -63,10 +61,6 @@ Character metadata and assets from:
 - [bluearchive.fandom](https://bluearchive.fandom.com)
 - [kivo.wiki](https://kivo.wiki/)
 - [ba.gamekee](https://ba.gamekee.com/)
-
-ARONA prompts：
-
-- [ZiChenStudio/ChatGPT-Arona](https://github.com/ZiChenStudio/ChatGPT-Arona)
 
 ## Copyrights
 
